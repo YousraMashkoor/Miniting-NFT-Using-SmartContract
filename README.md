@@ -57,6 +57,10 @@ https://faucets.chain.link/rinkeby
 https://rinkeby-faucet.com/
 
 
+Faucets for MATIC  
+https://matic.supply/  
+https://matic.btn.sh/ 
+
 ## Creating alchemy app
 Alchemy gives you the ability to read and write on blockchain via their infrastructure. It saves you time. It saves you money and keeps things efficient. 
 
@@ -84,3 +88,5 @@ Use this command to deploy your smart contract to Rinkeby Server
 ```
 npx hardhat run scripts/run.js --network rinkeby
 ```
+
+Checkout my NFT: https://testnets.opensea.io/assets/0x9aba4edf6e0b416216f0ea96e972ac8015ca10c0/0

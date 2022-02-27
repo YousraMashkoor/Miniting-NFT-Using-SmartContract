@@ -91,7 +91,7 @@ npx hardhat run scripts/run.js --network rinkeby
 
 Checkout my NFT: https://testnets.opensea.io/assets/0x9aba4edf6e0b416216f0ea96e972ac8015ca10c0/0
 
-**Important Links**
+**Important Links**  
 check the rinkeby transation: https://rinkeby.etherscan.io/  
 testnet Opensea: https://testnets.opensea.io/  
 Alchemy dashboard: https://dashboard.alchemyapi.io/  
